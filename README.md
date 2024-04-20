@@ -56,5 +56,5 @@
 <br>
 
 ## 🔍 Stats
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinddobaegi&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinddobaegi&layout=compact&theme=vue" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsehfdl95)](https://solved.ac/wlsehfdl95)
