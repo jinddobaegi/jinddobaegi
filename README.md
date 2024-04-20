@@ -37,5 +37,15 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/cudatoolkit-76b900?style=for-the-badge">
 </div>
+
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinddobaegi&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinddobaegi&theme=vue&show_icons=true" width="42%" />
+</a>
