@@ -52,9 +52,3 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </div>
-
-<br>
-
-## 🔍 Stats
-<a>﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinddobaegi&langs_count=6&layout=compact&theme=transparent)](https://github.com/jinddobaegi)﻿</a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsehfdl95)](https://solved.ac/wlsehfdl95)
