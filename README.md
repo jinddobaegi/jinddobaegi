@@ -1,5 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=header&text=Jinyeong's%20Github&fontSize=40&animation=twinkling&fontAlign=25&fontAlignY=35)
 
+## 💻 Blog
+<div>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinddobaegi)](https://velog.io/@jinddobaegi)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jinddobaegi)](https://velog.io/@jinddobaegi)
+
+</div>
+<br>
+
 ## 🔧 Skills
 
 ### Most Used
