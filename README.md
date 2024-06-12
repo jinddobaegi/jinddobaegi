@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square"/>
 <img src="https://img.shields.io/badge/gRPC-5ec6c1?style=flat-square&logo=grpc&logoColor=white"/>
-<img src="https://img.shields.io/badge/InsightFace-2ba8de?style=flat-square"/>
-<img src="https://img.shields.io/badge/Diffusers-ffd000?style=flat-square"/>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
