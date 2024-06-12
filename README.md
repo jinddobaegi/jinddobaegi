@@ -2,11 +2,10 @@
 
 ## 💻 Blog
 <div>
+ <a href="https://velog.io/@jinddobaegi"><img src="https://img.shields.io/badge/jinddobaegi.log-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jinddobaegi"/></a>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jinddobaegi)](https://velog.io/@jinddobaegi)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jinddobaegi)](https://velog.io/@jinddobaegi)
-
+### Latest Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinddobaegi)](https://velog.io/@jinddobaegi)
 </div>
 <br>
 
